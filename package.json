@@ -1,0 +1,26 @@
+{
+   "name": "thetan-bot",
+   "version": "1.0.0",
+   "description": "",
+   "main": "app.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "abi-decoder": "^2.4.0",
+      "agentkeepalive": "^4.1.4",
+      "bnc-sdk": "^3.7.0",
+      "crypto": "^1.0.1",
+      "ethereumjs-common": "^1.5.2",
+      "ethereumjs-tx": "^2.1.2",
+      "googleapis": "^92.0.0",
+      "request": "^2.88.2",
+      "web3": "^1.6.1",
+      "ws": "^8.3.0"
+   },
+   "devDependencies": {
+      "@types/node": "^17.0.7"
+   }
+}
